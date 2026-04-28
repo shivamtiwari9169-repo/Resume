@@ -1,7 +1,7 @@
 # Shivam Tiwari
 **Cloud Devops Engineer | Docker, Kubernetes, AWS , Azure, Git, Github**
 
-📍 Noida , Uttar-Pradesh, India | 📧 your.shivamtiwari9169@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-tiwari-41030b218/) | 🌐 [Portfolio Website](https://yourwebsite.com)
+📍 Noida , Uttar-Pradesh, India | 📧 [shivamtiwari9169@gmail.com](mailto:shivamtiwari9169@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-tiwari-41030b218/) | 🌐 [Portfolio Website](https://yourwebsite.com)
 
 ---
 
