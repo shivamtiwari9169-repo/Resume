@@ -1,5 +1,5 @@
 # Shivam Tiwari
-**Software Engineer | [Your Specialization, e.g., Full Stack / AI Developer]**
+**Cloud Devops Engineer | [Docker, Kubernetes, AWS , Azure, Git, Github]**
 
 📍 [Your City, Country] | 📧 [your.email@example.com](mailto:your.email@example.com) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio Website](https://yourwebsite.com)
 
